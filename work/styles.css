@@ -1,0 +1,27 @@
+body {
+     background-color: brown;background-image: url(https://images.wallpaperscraft.com/image/single/girl_grass_city_213102_300x168.jpg);
+     background-repeat: no-repeat;
+     background-position: above;
+     background-attachment:scroll ;
+     
+
+    }
+#para1{
+    color: blanchedalmond;
+    border-style: solid;
+    border-color: green;
+    border-width: 4px;
+    border-right: solid;
+    border-radius: 8px;
+    border-bottom:dotted ;
+    border-left: double;
+    /*background-attachment:scroll;*/
+}
+h1{
+    color: yellowgreen;
+}
+#para2{
+    color:yellow;
+    background-color: blue;
+   
+}
