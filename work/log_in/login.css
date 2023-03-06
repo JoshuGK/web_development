@@ -1,0 +1,47 @@
+body{
+    background-color:  rgb(247, 250, 250);
+    font-family: "san-serif","Robot-Light",Arial;
+    text-align: center;
+}
+.top-div{
+    width: 300px;
+    height: 350px;
+    margin:auto;
+    text-align: center;
+    border: 3px solid cadetblue;
+    background-color: black;
+    margin-top: 150px;
+    border-radius: 15px;
+    border-color: brown;
+
+}
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
+.credentials{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 25px;
+    height: 20px;
+    background-color: rgb(235, 217, 223);
+}
+#username-input{
+    margin-bottom: 15px;
+}
+#sign-in-button{
+    margin-top:40px ;
+    margin-bottom: 20px;
+    border-color: rgb(0, 0, 0);
+    background-color:white ;
+    border-radius: 25PX;
+    border-style: solid;
+    width: 210px;
+    height: 40px;
+}
+.p{
+   background-color:
+
+}

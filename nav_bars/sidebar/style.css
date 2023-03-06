@@ -1,0 +1,101 @@
+.sidebar{
+    background-color: black;
+    color:blueviolet;
+    width: 200px;
+    height: 100%;
+    padding:px;
+    top: 0;
+    bottom: 0;
+    position: fixed;
+    padding-top:20px;
+
+}
+.sidebar a{
+    color: white;
+}
+.sidebar ul{
+    list-style: none;
+    margin: 10px;
+    padding: 20px;
+    font-family: ;
+    font-size: 16px;
+    
+}
+a{
+    text-decoration: none;
+    
+    color: burlywood;
+}
+a:hover{
+    background-color: green;
+
+}
+.rounded-image{
+    width: 200px;
+    height: 200px;
+   border-radius: 50%;
+   overflow-y: none;
+    
+}
+.my-name{
+    font-size: 30px;
+}
+.introduction{
+    margin-left:210px ;
+}
+.intro-text{
+    font-size: 25px;
+}
+.contact-me{
+    border-radius: 1px;
+    color: blue;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+.contact-me a{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 8px;
+    color: white;
+    background-color: black;
+}
+.contact-me a:hover{
+    transition-delay: 10ms;
+    color: black;
+    background-color: white;
+}
+.my-work{
+    padding-left: 210px;
+    
+}
+.read-more{
+    padding: 10px;
+    
+}
+.read-more a{
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}
+.read-more a:hover{
+    background-color: white;
+    color: black;
+    transition-delay: 20ms;
+}
+.read-more a{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 8px;
+    color: white;
+    background-color: black;
+
+}
+.li{
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    
+}
+
