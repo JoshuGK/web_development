@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Rubik Iso', cursive;
+}
+.card{
+    padding-top: 20px;
+    background-color: blue;
+}
+#cord{
+    padding-top: 20px;
+}
+.card:hover{
+    background-color: goldenrod;
+}

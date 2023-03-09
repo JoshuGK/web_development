@@ -1,7 +1,11 @@
 .li{
     background-color:black;
     align-items: baseline;
-    text-decoration: none;
+    text-decoration: ;
+}
+#head{
+    font-family: 'Rubik Iso', cursive;
+    color: cornsilk;
 }
 body{
     background-color: black;
@@ -10,6 +14,7 @@ body{
 
 }
 .jog{text-align: center;
+    
 
 
 }
@@ -22,15 +27,34 @@ nav{
 nav ul li{display: inline-block;
     list-style: none;
     margin: 10px 20px;
-
 }
-h1{
-    color: white;
-
+#res{
+    border: 1px solid black;
+    text-decoration-line: none;
+    font-size: large;
+    color: brown;
+    border-radius: 20px;
+    background-color: aqua ;
 }
-p{
+#para{
     color: aqua;
     font-size: 50px;
+    background-image: url;
+    height: 500px;
+    text-align: center;
+}
+#para1{
+    text-align: center;
+    color: aqua;
+
+}
+#para3{
+    color: aqua;
+    font-size: large;
+}
+#reach{
+    color: aqua;
+
 }
 a:hover{
     background-color: green;
@@ -40,3 +64,83 @@ a{
     text-decoration: none;
     text-decoration-line: line-through;
 }
+.div{
+    color: black;
+    height: 500px;
+    background-color:white;
+}
+#do{
+}
+nav do{
+    display: inline-block;
+    margin: ;
+}
+.all{
+    width: 400px;
+    height: 430px;
+    border-color: burlywood;
+    border: 1px solid;
+    padding: 40px;
+    background-color: aqua;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+.all:hover{
+    background-color:white;
+}
+#did{
+    display: list-item;
+}
+.profile{
+    height: 70px;
+    border: 1px solid black;
+
+}
+#pic{
+    height: 200;
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 50%;
+    
+    
+}
+.list{
+    display: inline-block;
+    text-align: right;
+}
+.card{
+    
+    background-color: white;
+    display:inline-flex;
+    width: 400px;
+    height: 500px;
+    padding: 40px;
+    border-radius: 10px;
+
+}
+.services{
+    height: 150px;
+    background-color: white;
+    padding-bottom: 20px;
+}
+#sed{
+    font-weight: lighter;
+    padding-top: 50px;
+}
+.card-deck{
+    padding-bottom: 20px;
+}
+.car{
+    background-color: white;
+    display: inline-flex;
+    width: 300px;
+    height: 250px;
+    padding-top: 20px;
+    padding: 80px;
+    background-color: brown;
+}
+.caro{
+    background-color: brown;
+    padding-bottom: 20px;
+}
+
