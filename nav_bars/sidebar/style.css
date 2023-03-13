@@ -34,8 +34,7 @@ a:hover{
     width: 200px;
     height: 200px;
    border-radius: 50%;
-   overflow-y: none;
-    
+   overflow-y: none;  
 }
 .my-name{
     font-size: 30px;
@@ -67,11 +66,10 @@ a:hover{
 }
 .my-work{
     padding-left: 210px;
-    
+    background-image: url();   
 }
 .read-more{
-    padding: 10px;
-    
+    padding: 10px;    
 }
 .read-more a{
     font-weight: bold;
@@ -95,7 +93,13 @@ a:hover{
 .li{
     padding: 5px;
     margin-bottom: 10px;
-    border: 1px solid white;
-    
+    border: 1px solid white;  
+}
+.main-cotent{
+    background-color: green;
+    background-image: url(/images/926718673.jpg);
+    color: blanchedalmond;
+    font-family: 'Cormorant Garamond', serif;
+   
 }
 

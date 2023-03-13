@@ -1,22 +1,19 @@
 .li{
     background-color:black;
-    align-items: baseline;
-    text-decoration: ;
+    align-items: center;
+    text-decoration: none;
 }
 #head{
-    font-family: 'Rubik Iso', cursive;
+    font-family: 'Lucida Sans', 'Lucida Sans ;
     color: cornsilk;
 }
 body{
     background-color: black;
     font-family: sans-serif;
-    background-image: url();
+    background-image: url(/images/Black\ Panther\ Animal\ -\ Sunset\ Background.jpg);
 
 }
 .jog{text-align: center;
-    
-
-
 }
 nav{
     display: flex;
@@ -41,10 +38,10 @@ nav ul li{display: inline-block;
     font-size: 50px;
     background-image: url;
     height: 500px;
-    text-align: center;
+    text-align: left;
 }
 #para1{
-    text-align: center;
+    text-align: left;
     color: aqua;
 
 }
@@ -62,22 +59,23 @@ a:hover{
 }
 a{
     text-decoration: none;
-    text-decoration-line: line-through;
+    text-decoration-line: none;
+    text-align:center;
+    align-items:center;
 }
 .div{
     color: black;
-    height: 500px;
+    height: 400px;
     background-color:white;
-}
-#do{
 }
 nav do{
     display: inline-block;
     margin: ;
 }
 .all{
-    width: 400px;
-    height: 430px;
+    width: 300px;
+    display: inline-flex;
+    height: 300px;
     border-color: burlywood;
     border: 1px solid;
     padding: 40px;
@@ -94,6 +92,7 @@ nav do{
 .profile{
     height: 70px;
     border: 1px solid black;
+    background-color: white;
 
 }
 #pic{
@@ -112,8 +111,8 @@ nav do{
     
     background-color: white;
     display:inline-flex;
-    width: 400px;
-    height: 500px;
+    width: 300px;
+    
     padding: 40px;
     border-radius: 10px;
 
@@ -133,14 +132,30 @@ nav do{
 .car{
     background-color: white;
     display: inline-flex;
-    width: 300px;
-    height: 250px;
-    padding-top: 20px;
+    width: 223px;
+    height: 100px;
+    padding-bottom: 20px;
     padding: 80px;
-    background-color: brown;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 8px;
 }
 .caro{
     background-color: brown;
     padding-bottom: 20px;
+    height:260px ;
 }
+#omo{
+    text-decoration:none;
+    margin:75px 150px ;
+    align-items:center;
+}
+#call{
+    font-size: large;
+}
+.pott{
+    color: aqua;
+}
+
+
 
