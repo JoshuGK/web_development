@@ -60,7 +60,7 @@ a:hover{
     background-color: white;
 }
 .my-work{
-    background-image: url(/images/icon2.png) ;
+    background-image: url(/images/dada1.jpg) ;
     width: 1298px;
     text-align: center;
     background-color:white;
@@ -99,7 +99,15 @@ a:hover{
     background-color: #444;
     padding-left:200;
     margin: 5px;
-    
+    animation: Jog 4s linear infinite;
+}
+.my:hover{
+    transform: translateY(10px);
+    background-color: purple;
+
+}
+@keyframes Jog{
+ 
 }
 .read-more{
     padding: 10px;    
@@ -191,7 +199,7 @@ a:hover{
     background-color: rgb(58, 93, 5);
 }
 .pot{
-    background-color: #B8621B;
+    background-color: white;
 }
 #heda{
     text-align: center;
@@ -234,10 +242,14 @@ footer {
     margin: 5px;
   }
   .last{
-    width: 800px;
+    width: 950px;
     text-align: center;
-    padding-left: 300px;
-    background-color:;
+    padding-left: 680px;
+    color: white;
+    background-position: center;
   }
+.lass{
+    background-color: black;
+}
 
 
